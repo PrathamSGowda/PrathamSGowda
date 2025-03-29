@@ -1,4 +1,4 @@
-- 👀 Figuring out how GitHub works
+- 👀 Figuring out how Git and GitHub works
 
 <!---
 PrathamSGowda/PrathamSGowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
