@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @PrathamSGowda
 - 👀 Figuring out how GitHub works
 
 <!---
